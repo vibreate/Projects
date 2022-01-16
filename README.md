@@ -46,7 +46,7 @@ The scatter plot shows a statistically significant correlation between total deg
 
 * Two CSV files were used for this analysis: *salary_potential* and *tuition_cost*
 * The *salary_potential* csv file details the 2018-2019 college tuition costs while the *tuition_cost* csv file contains information on early and mid-career salary potential of college graduates.
-* [Link to Data Set](https://www.kaggle.com/jessemostipak/college-tuition-diversity-and-pay?select=tuition_income.csv)
+* [Data Set Source](https://www.kaggle.com/jessemostipak/college-tuition-diversity-and-pay?select=tuition_income.csv)
 
 ### Data Wrangling:
 
