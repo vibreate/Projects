@@ -14,12 +14,11 @@
 <br/><br/>
 
 
-
-![](https://github.com/vibreate/Portfolio/blob/main/images/in-state%20bar%20chart.png)
+![](https://github.com/vibreate/U.S.-Colleges-Project/blob/main/images/in-state%20bar%20chart.png)
 <br/><br/>
 
 
-![](https://github.com/vibreate/Portfolio/blob/main/images/out-of-state%20bar%20chart.png)
+![](https://github.com/vibreate/U.S.-Colleges-Project/blob/main/images/out-of-state%20bar%20chart.png)
 
 
 As shown in the 2 bar charts above, the top 3 states with the highest average tuition costs are Pennsylvania (PA), Massachusetts (MA), and New York (NY), which are all located in the East Coast.
@@ -28,7 +27,7 @@ As shown in the 2 bar charts above, the top 3 states with the highest average tu
 
 
 
-![](https://github.com/vibreate/Portfolio/blob/main/images/top%2010%20schools.png)
+![](https://github.com/vibreate/U.S.-Colleges-Project/blob/main/images/top%2010%20schools.png)
 
 The 3 best schools in terms of value are two-year degree public schools: Bellevue College, Clark College, and West Virginia University. Graduates of these schools had average salaries that are between 3 to 5 times their degree cost.
 <br/><br/>
@@ -36,7 +35,7 @@ The 3 best schools in terms of value are two-year degree public schools: Bellevu
 
 
 
-![](https://github.com/vibreate/Portfolio/blob/main/images/scatter%20plot.png)
+![](https://github.com/vibreate/U.S.-Colleges-Project/blob/main/images/scatter%20plot.png)
 
 The scatter plot shows a statistically significant correlation between total degree cost and salary potential. However, such a correlation is not strong, suggesting that the total cost of a degree is only weakly linked to future salary potential.
 
