@@ -4,7 +4,7 @@
 
 
 * Improved students’ college selection process by analyzing the cost-effectiveness of 800+ U.S. colleges across all 50 states using Python. 
-* Demonstrated a moderate positive correlation between average degree cost and average career pay with regression analysis; visualized findings using Matplotlib for the 10 highest-value schools.
+* Demonstrated a weak positive correlation between average degree cost and average career pay with regression analysis; visualized findings using Matplotlib for the 10 highest-value schools.
 * Found public schools to offer a better value as a degree costs about 35% less than one from a private school while private school graduates only earn about 5% more in terms of mid-career earning potential.
 
 ---
